@@ -17,6 +17,7 @@
 - dd = delete one line
 
 --------- When multiple files with main src code ------------
+
 type for codes wanting to run 
 
 - gcc minesweeper.c intset.c
