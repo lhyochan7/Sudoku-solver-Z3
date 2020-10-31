@@ -12,8 +12,8 @@ top-right to bottom-left) must contain all nine integers.
 - An input of Sudoku-X consists of nine lines each of which has nine
 values separated by one or multiple whitespaces. A value can be
 one of the nine integers (from ‘1’ to ‘9’) representing preassigned
-values and ‘?’ indicating an unassigned cell. The following is an
-input text for the puzzle instance of Figure 1:
+values and ‘?’ indicating an unassigned cell. The following is an example
+input text.
 
 ```
 
