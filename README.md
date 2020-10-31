@@ -3,15 +3,15 @@
 ## Running the Program
 Open the linux terminal and upload the following .c code and input txt file and Makefile by using vim.
 -vim input.txt
--vim SudokuX.c
+-vim sudokuX.c
 
 (optional way => copy and paste the .c code into the linux terminal)
-- vim SudokuX.c 
+- vim sudokuX.c 
 - press I and copy and paste the code (paste by right click)
 - press esc and type :wq to quit file
 
 compile the code by 
-- gcc SudokuX.c
+- gcc sudokuX.c
 
 To make a executable file
 type
@@ -23,7 +23,6 @@ type
 
 Once program is running following text will show up on the terminal
 - Enter file name: 
-
 
 Type in the input file text
 - input.txt
