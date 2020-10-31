@@ -21,9 +21,9 @@ Once executable file is made
 type
 - ./a.out
 
-Once program is running 
+Once program is running following text will show up on the terminal
 - Enter file name: 
-will show up on the terminal
+
 
 Type in the input file text
 - input.txt
