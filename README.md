@@ -1,6 +1,6 @@
 # SudokuX-solver-Z3
 
-# Linux server cmd keys to know 
+## Linux server cmd keys to know 
 - clear = clear screen
 - ls = load screen (files in server)
 - vim  = edit file
@@ -31,7 +31,7 @@ type for codes wanting to run
 ./test 
 
 
-## Running the Program
+# Running the Program
 Open the linux terminal and upload the following .c code and input txt file and Makefile by using vim.
 
 - vim input.txt
