@@ -13,6 +13,7 @@ values separated by one or multiple whitespaces. A value can be
 one of the nine integers (from ‘1’ to ‘9’) representing preassigned
 values and ‘?’ indicating an unassigned cell. The following is an
 input text for the puzzle instance of Figure 1:
+------------------------------------------------
 ? 3 ? 8 4 ? ? ? ?
 ? ? ? 9 ? ? ? ? ?
 ? ? 5 ? ? ? ? ? ?
@@ -22,6 +23,7 @@ input text for the puzzle instance of Figure 1:
 ? 4 ? ? ? ? ? ? ?
 ? ? 8 6 ? ? 9 ? ?
 9 ? ? ? ? ? ? ? ?
+------------------------------------------------
 
 ## Linux server cmd keys to know 
 - clear = clear screen
