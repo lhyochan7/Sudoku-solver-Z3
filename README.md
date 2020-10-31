@@ -1,4 +1,27 @@
 # SudokuX-solver-Z3
+# Problem Definition
+Sudoku-X has a 9×9 grid which consists
+of nine 3×3 subgrids. Each cell can be assigned with one integer
+between one and nine such that each of the nine integers must
+appear exactly once at every row, every column and every subgrid.
+In addition, Sudoku-X requires that the nine cells of each diagonal
+of the 9×9 grid (i.e., one from top-left to bottom-right and one from
+top-right to bottom-left) must contain all nine integers.
+
+An input of Sudoku-X consists of nine lines each of which has nine
+values separated by one or multiple whitespaces. A value can be
+one of the nine integers (from ‘1’ to ‘9’) representing preassigned
+values and ‘?’ indicating an unassigned cell. The following is an
+input text for the puzzle instance of Figure 1:
+? 3 ? 8 4 ? ? ? ?
+? ? ? 9 ? ? ? ? ?
+? ? 5 ? ? ? ? ? ?
+2 5 ? ? ? 7 4 8 ?
+? ? 1 ? ? ? ? 3 ?
+? 7 3 ? ? ? ? ? 1
+? 4 ? ? ? ? ? ? ?
+? ? 8 6 ? ? 9 ? ?
+9 ? ? ? ? ? ? ? ?
 
 ## Linux server cmd keys to know 
 - clear = clear screen
