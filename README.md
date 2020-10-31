@@ -34,9 +34,8 @@ type for codes wanting to run
 ## Running the Program
 Open the linux terminal and upload the following .c code and input txt file and Makefile by using vim.
 
--vim input.txt
-
--vim sudokuX.c
+- vim input.txt
+- vim sudokuX.c
 
 (optional way => copy and paste the .c code into the linux terminal)
 - vim sudokuX.c 
