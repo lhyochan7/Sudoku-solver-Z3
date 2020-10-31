@@ -2,7 +2,7 @@
 
 ## Running the Program
 Open the linux terminal and upload the following .c code and input txt file and Makefile by using vim.
--vim inputSudokuX.txt
+-vim input.txt
 -vim SudokuX.c
 
 (optional way => copy and paste the .c code into the linux terminal)
@@ -13,21 +13,23 @@ Open the linux terminal and upload the following .c code and input txt file and 
 compile the code by 
 - gcc SudokuX.c
 
-To make a executable file type:
+To make a executable file
 type
 - make
 
-Once executable file is made type
+Once executable file is made
+type
 - ./a.out
 
 Once program is running 
--Enter file name: 
+- Enter file name: 
+will show up on the terminal
 
 Type in the input file text
--inputSudokuX.txt
+- input.txt
 
 The results will be stored in output.txt which can be seen through
--vim output.txt
+- vim output.txt
 
 The Z3 formula will be stored in formula file 
--vim formula
+- vim formula
